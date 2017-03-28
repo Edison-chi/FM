@@ -1,0 +1,22 @@
+{
+  "name": "FMbase",
+  "version": "0.1.0",
+  "summary": "A short description of FMbase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chxiansheng/FMbase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chxiansheng": "18758281902@163.com"
+  },
+  "source": {
+    "git": "https://github.com/chxiansheng/FMbase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FMbase/Classes/**/*"
+}

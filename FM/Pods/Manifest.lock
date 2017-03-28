@@ -1,0 +1,16 @@
+PODS:
+  - FMbase (0.1.0)
+
+DEPENDENCIES:
+  - FMbase (from `../localLib/FMbase`)
+
+EXTERNAL SOURCES:
+  FMbase:
+    :path: ../localLib/FMbase
+
+SPEC CHECKSUMS:
+  FMbase: 6c453ecfd7c313fcb3bf98e0d3cd0dd89909d38f
+
+PODFILE CHECKSUM: 6ff4995afb6f5655968a79f20b51865da485fb81
+
+COCOAPODS: 1.1.1
